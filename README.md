@@ -4,8 +4,8 @@ Trabalho do Curso ADS
 Nome do acadêmico (a): Rangel Antonio Barbosa Santos
 RA: 09016586
 
-Trabalho incompleto, sendo apenas funcionais o tablayout, mapa, e splashscreen
-implementados porem não funcionais, menu, fragmento recyclerview com conteudo
+Trabalho incompleto, sendo apenas funcionais o tablayout, mapa, e splashscreen.
+implementados porem não funcionais menu, fragmento recyclerview com conteudo, activity que receberia o conteudo "sobre".
 
 Referencias:
 
